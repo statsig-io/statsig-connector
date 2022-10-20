@@ -1,0 +1,19 @@
+{
+  "name": "statsig-connector",
+  "version": "0.1.0",
+  "description": "Data connector that helps you forward feature flag and experiment exposure events and analytics events to Statsig, so that you can see how your features and experiments are performing across all metrics you care about",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statsig-io/statsig-connector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/statsig-io/statsig-connector/issues"
+  },
+  "homepage": "https://github.com/statsig-io/statsig-connector#readme"
+}
